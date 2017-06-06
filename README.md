@@ -17,4 +17,4 @@ If you don't care about sharing an IP address with more people, check out the aw
 
 ###Donations
 
-If you want to show your appreciation, you can donate via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VBAYDL34Z7J6L) or [Bitcoin](https://www.coinbase.com/Nyr). Thanks!
+If you want to show your appreciation, you can donate via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VBAYDL34Z7J6L) or [Bitcoin](1KURiDmmBTsVjRq7m9sC4exSMSRQygu8B7). Thanks!
